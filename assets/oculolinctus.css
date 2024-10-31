@@ -1,0 +1,62 @@
+.feline_oculolinctus {
+	float: left;
+	width: 490px;
+	height: 120px;
+	position: relative;
+}
+.feline_oculolinctus_button {
+	float: left;
+	border: none;
+	background: transparent;
+}
+.feline_oculolinctus_button img {
+	margin: 10px;
+	width: 103px;
+	height: 100px;
+}
+.feline_oculolinctus_user_list {
+	float: left;
+	height: 80px;
+}
+.feline_oculolinctus_user_list p {
+	line-height: 38px;
+	margin: 0;
+	padding: 0;
+}
+.feline_oculolinctus_user_list img {
+	float: left;
+	width: 76px;
+	height: 76px;
+	padding: 2px;
+}
+.feline_oculolinctus_list li {
+	clear: both;
+	margin: 4px 0px;
+	height: 50px;
+	list-style: none;
+	line-height: 40px;
+	border-left: 2px solid #069;
+}
+.feline_oculolinctus_list li:hover {
+	background-color: #069;
+  -webkit-transition: background 0.5s ease-in-out;
+  -moz-transition: background 0.5s ease-in-out;
+  -ms-transition: background 0.5s ease-in-out;
+  -o-transition: background 0.5s ease-in-out;
+  transition: background 0.5s ease-in-out;
+}
+.feline_oculolinctus_list li:hover span.list_item_count {
+	color: #FFF;
+}
+.feline_oculolinctus_list li span.list_item_count {
+	float: left;
+	color: #069;
+	margin: 0 6px;
+	display: block;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: monospace;
+}
+.feline_oculolinctus_list li a {
+	height: 40px;
+}

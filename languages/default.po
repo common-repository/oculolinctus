@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Oculolinctus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-06 18:09+0800\n"
+"PO-Revision-Date: 2013-08-06 18:09+0800\n"
+"Last-Translator: Angela Zou <angela380in@hotmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;_\n"
+"X-Poedit-Basepath: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/oculolinctus\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/oculolinctus\n"
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/oculolinctus/oculolinctus.php:36
+msgid "All Post Types"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/oculolinctus/oculolinctus.php:53
+msgid "Oculolinctus Setting"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/oculolinctus/oculolinctus.php:59
+msgid "Show Licker On"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/oculolinctus/oculolinctus.php:66
+msgid "Display Position"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/oculolinctus/oculolinctus.php:70
+msgid "After Content"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/oculolinctus/oculolinctus.php:74
+msgid "Before Content"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/oculolinctus/oculolinctus.php:78
+msgid "Before and After Content"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/oculolinctus/oculolinctus.php:86
+msgid "Play Sound"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/oculolinctus/oculolinctus.php:112
+msgid "Already liked by <span class='feline_oculolinctus_count'>"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/oculolinctus/oculolinctus.php:112
+msgid "No one has licked yet!"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/oculolinctus/oculolinctus.php:114
+#, php-format
+msgid "Show your appreciation. %s "
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/oculolinctus/oculolinctus.php:192
+msgid "Sorry, Your Browser Does not Support This Audio"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/oculolinctus/oculolinctus.php:281
+msgid "Most Licked Posts"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/oculolinctus/oculolinctus.php:288
+msgid "Feline Oculolinctus Widget"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/oculolinctus/oculolinctus.php:290
+msgid "Display Most Licked Posts"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/oculolinctus/oculolinctus.php:353
+msgid "Title:"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/oculolinctus/oculolinctus.php:357
+msgid "Post Count:"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/oculolinctus/oculolinctus.php:361
+msgid "Show Count:"
+msgstr ""
+
+#: /Applications/XAMPP/htdocs/idu/site/wp-content/plugins/oculolinctus/oculolinctus.php:364
+msgid "If checked, number of licks is shown. If not, rank is show instead."
+msgstr ""
+
